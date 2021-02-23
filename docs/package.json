@@ -14,7 +14,7 @@
     "babel-preset-flow": "^6.23.0",
     "date-fns": "next",
     "eslint": "^4.19.1",
-    "gatsby": "^1.9.259",
+    "gatsby": "^2.0.0",
     "gatsby-link": "^1.6.44",
     "gatsby-plugin-react-css-modules": "^1.0.15",
     "gatsby-plugin-react-helmet": "^2.0.11",
